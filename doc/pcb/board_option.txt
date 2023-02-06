@@ -1,0 +1,5 @@
+4 layers
+1.5 mm 35um thickness
+ImmersGold
+Overlay white
+Solder mask black
