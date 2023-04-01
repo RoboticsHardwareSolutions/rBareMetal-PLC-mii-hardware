@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: \\Mac\Home\Documents\Local_folder\Development\Jobs\Comitas\hardware\robocontroller-hardware-main\hardware\PCB.pcbdoc
+DRC Rules Export File for PCB: \\Mac\Home\projects\rhs\robocontrloller-f7-miic-hardware\hardware\PCB.pcbdoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-\\Mac\Home\Documents\Local_folder\Development\Jobs\Comitas\hardware\robocontroller-hardware-main\doc\pcb\Pick Place for PCB.txt
+\\Mac\Home\projects\rhs\robocontrloller-f7-miic-hardware\doc\pcb\Pick Place for PCB.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       19.01.23
-Time:       23:34
-Revision:   Not in VersionControl
+Date:       01/04/23
+Time:       19:18
+Revision:   32208b85ed10e7bb15dc7b305c8377a4829ae672
 Variant:    No variations
 Units used: mil
 
